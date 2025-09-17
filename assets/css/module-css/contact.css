@@ -526,7 +526,11 @@
     hsl(140deg 43% 97%) 100%
   );
 }
-
+.contact-flgs {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
 .contact-info__icon_flex {
   display: flex;
   gap: 10px;
