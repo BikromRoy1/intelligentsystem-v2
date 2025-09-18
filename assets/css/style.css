@@ -3006,7 +3006,7 @@ xs sidebar
 .client {
   position: relative;
   display: block;
-  padding: 120px 0 0;
+  /* padding: 120px 0 0; */
   z-index: 1;
 }
 .brand-two__wrapper-client {
@@ -3039,6 +3039,11 @@ xs sidebar
   width: auto;
   height: auto;
   display: block;
+}
+.Review-logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 /*--------------------------------------------------------------
 # Hero Section
